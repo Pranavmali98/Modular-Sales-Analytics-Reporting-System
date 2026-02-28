@@ -1,0 +1,7 @@
+SALES EXECUTIVE SUMMARY
+==============================
+Total Sales: 8200.0
+Average Order Value: 820.0
+Total Orders: 10
+Unique Customers: 5
+Unique Products: 6
